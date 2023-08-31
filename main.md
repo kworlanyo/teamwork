@@ -1,1 +1,2 @@
 # Collaborators
+- Mir Ahmad Niazi
